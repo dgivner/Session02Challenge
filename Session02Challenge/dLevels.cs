@@ -9,8 +9,7 @@ namespace Session02Challenge
     internal class dLevel
     {
         public string Name;
-        public double elevation;
-
+        public double Elevation;
 
     }
 }
